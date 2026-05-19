@@ -1,6 +1,6 @@
 # Hi, I'm BK (djhaled)
 
-**Business Administration student** (UNICESUSC) — my focus is **automation for everyday work**: spreadsheets, office routines, simple web tools, and scripts that save time on real operations.
+**Business Administration student**  — my focus is **automation for everyday work**: spreadsheets, office routines, simple web tools, and scripts that save time on real operations.
 
 I'm not centered on game development as a career. Most of my **Unreal / C++ / tooling repos** started as **personal automation**: importers, exporters, and utilities I built because I needed them to work faster—not as a showcase of game-dev ambition.
 
