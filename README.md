@@ -17,12 +17,12 @@ I'm not centered on game development as a career. Most of my **Unreal / C++ / to
 
 ### Featured projects
 
-| Project | Description |
-|--------|-------------|
-| [**RACHA-APP**](https://github.com/djhaled/RACHA-APP) | Split expenses with friends and collect via Pix (TypeScript) |
-| [**Uiana-MapImporter**](https://github.com/djhaled/Uiana-MapImporter) | Automation tooling for Unreal map workflows |
-| [**Unreal-SeTools**](https://github.com/djhaled/Unreal-SeTools) | SEModel import pipeline for Unreal (meshes, animations, materials) |
-| [**AresEditor**](https://github.com/djhaled/AresEditor) | WPF 3D editor with OpenGL — built to streamline asset/scene work |
+| Project | What it does |
+|--------|----------------|
+| [**RACHA-APP**](https://github.com/djhaled/RACHA-APP) | Web app to **split shared costs** (meals, trips, rent), send payment links on **WhatsApp**, and track who paid via **Pix** — less spreadsheet math, fewer awkward “who owes who” chats. |
+| [**Uiana-MapImporter**](https://github.com/djhaled/Uiana-MapImporter) | Tool that **imports large 3D maps/levels automatically** into Unreal Engine instead of rebuilding them by hand — saves hours of repetitive setup work. |
+| [**Unreal-SeTools**](https://github.com/djhaled/Unreal-SeTools) | Plugin that **turns external 3D model files into usable characters, props, and animations** inside Unreal — batch import so you don’t redo the same steps for every asset. |
+| [**AresEditor**](https://github.com/djhaled/AresEditor) | **Desktop app** to open, inspect, and organize 3D models and scenes in one place — a personal workshop for file prep before dropping assets into a bigger project. |
 
 ---
 
